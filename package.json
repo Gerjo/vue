@@ -1,5 +1,5 @@
 {
-  "name": "vue-g",
+  "name": "vue",
   "version": "2.6.11-g",
   "description": "Gerard's bodged fork of vue - this will always load the compiler",
   "main": "dist/vue.common.js",
