@@ -4,7 +4,7 @@ I'm studying electron and vue. I've not yet figured out how electron can load vu
 
 webpack, browserify, etc, all speak of 'alias', alas I cannot find such option in electron. This will do for today.
 
-The additional purpose of this excersize is to learn about the (npm|yarn)/electron ecosystem; a boiler-plate project is too simple.
+The additional purpose of this exercise is to learn about the (npm|yarn)/electron ecosystem; a boiler-plate project is too simple.
 
 install with: `npm install Gerjo/vue#dev --save`
 
